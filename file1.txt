@@ -1,3 +1,4 @@
 1st line added in local master
 2nd line added in local branch1
 3rd line added in local branch1
+4th line added to branch again for "git diff"
